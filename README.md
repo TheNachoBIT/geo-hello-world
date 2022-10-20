@@ -17,5 +17,5 @@
 ## Install
 
 You can either:
-- Open up "Hub/geo" in CLI mode and type "--geomenu github/TheNachoBIT/geo-hello-world".
-- Or do it straight up in the native command prompt with "geo --geomenu github/TheNachoBIT/geo-hello-world".
+- Open up "Hub/geo" in CLI mode and type `--geomenu github/TheNachoBIT/geo-hello-world`.
+- Or do it straight up in the native command prompt with `geo --geomenu github/TheNachoBIT/geo-hello-world`.
